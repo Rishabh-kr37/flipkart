@@ -20,7 +20,7 @@ const ProductSchema = new mongoose.Schema({
         tagline: String
 
 });
-mongoose.models = {}
+
 
 const Product = mongoose.model('product', ProductSchema);
 

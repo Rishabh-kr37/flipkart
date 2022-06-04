@@ -1,7 +1,7 @@
 
 
 
-import { products } from './database/constants/data.js';
+
 import Product from './model/product-Schema.js';
 
 const DefaultData =  async() => {
