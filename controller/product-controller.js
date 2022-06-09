@@ -1,5 +1,5 @@
 
-import Product from '../model/Product-schema.js';
+import Product from '../model/product-schema.js';
 
 
 
