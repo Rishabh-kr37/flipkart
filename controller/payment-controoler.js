@@ -3,7 +3,7 @@
 
 
 import formidable from 'formidable';
-import paytmchecksum from '../paytm/PaytmChecksum.js';
+import paytmchecksum from '../Paytm/PaytmChecksum.js';
 import { paytmParams,paytmMerchantKey } from '../server.js';
 import https from 'https';
 
