@@ -2,7 +2,7 @@
 
 
 
-import Product from './model/product-Schema.js';
+import Product from './model/product-schema.js';
 
 const DefaultData =  async() => {
     try {
