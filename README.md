@@ -35,16 +35,24 @@ https://flipkartcloned.herokuapp.com/
 
 ## **Server :**&nbsp; Node, Express, Mongoose, MongoDB, JSON WEB Token, Bcrypt JS
 
-## Sneak Peek of Site
+## Workflow Peek of Site
 
 ![App Screenshot 1](https://github.com/Rishabh-kr37/flipkart/blob/main/images/1.PNG)
+
 ![App Screenshot 2](https://github.com/Rishabh-kr37/flipkart/blob/main/images/2.png)
+
 ![App Screenshot 3](https://github.com/Rishabh-kr37/flipkart/blob/main/images/3.png)
+
 ![App Screenshot 4](https://github.com/Rishabh-kr37/flipkart/blob/main/images/4.png)
+
 ![App Screenshot 5](https://github.com/Rishabh-kr37/flipkart/blob/main/images/5.png)
+
 ![App Screenshot 6](https://github.com/Rishabh-kr37/flipkart/blob/main/images/6.png)
+
 ![App Screenshot 7](https://github.com/Rishabh-kr37/flipkart/blob/main/images/7.png)
+
 ![App Screenshot 8](https://github.com/Rishabh-kr37/flipkart/blob/main/images/8.png)
+
 ![App Screenshot 9](https://github.com/Rishabh-kr37/flipkart/blob/main/images/9.png)
 
 ---
